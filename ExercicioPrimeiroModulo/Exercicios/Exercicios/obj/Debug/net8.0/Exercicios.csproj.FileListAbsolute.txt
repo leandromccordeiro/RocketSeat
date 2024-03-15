@@ -1,0 +1,14 @@
+C:\dev\Csharp\RocketSeat\ExercicioPrimeiroModulo\Exercicios\Exercicios\bin\Debug\net8.0\Exercicios.exe
+C:\dev\Csharp\RocketSeat\ExercicioPrimeiroModulo\Exercicios\Exercicios\bin\Debug\net8.0\Exercicios.deps.json
+C:\dev\Csharp\RocketSeat\ExercicioPrimeiroModulo\Exercicios\Exercicios\bin\Debug\net8.0\Exercicios.runtimeconfig.json
+C:\dev\Csharp\RocketSeat\ExercicioPrimeiroModulo\Exercicios\Exercicios\bin\Debug\net8.0\Exercicios.dll
+C:\dev\Csharp\RocketSeat\ExercicioPrimeiroModulo\Exercicios\Exercicios\bin\Debug\net8.0\Exercicios.pdb
+C:\dev\Csharp\RocketSeat\ExercicioPrimeiroModulo\Exercicios\Exercicios\obj\Debug\net8.0\Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Csharp\RocketSeat\ExercicioPrimeiroModulo\Exercicios\Exercicios\obj\Debug\net8.0\Exercicios.AssemblyInfoInputs.cache
+C:\dev\Csharp\RocketSeat\ExercicioPrimeiroModulo\Exercicios\Exercicios\obj\Debug\net8.0\Exercicios.AssemblyInfo.cs
+C:\dev\Csharp\RocketSeat\ExercicioPrimeiroModulo\Exercicios\Exercicios\obj\Debug\net8.0\Exercicios.csproj.CoreCompileInputs.cache
+C:\dev\Csharp\RocketSeat\ExercicioPrimeiroModulo\Exercicios\Exercicios\obj\Debug\net8.0\Exercicios.dll
+C:\dev\Csharp\RocketSeat\ExercicioPrimeiroModulo\Exercicios\Exercicios\obj\Debug\net8.0\refint\Exercicios.dll
+C:\dev\Csharp\RocketSeat\ExercicioPrimeiroModulo\Exercicios\Exercicios\obj\Debug\net8.0\Exercicios.pdb
+C:\dev\Csharp\RocketSeat\ExercicioPrimeiroModulo\Exercicios\Exercicios\obj\Debug\net8.0\Exercicios.genruntimeconfig.cache
+C:\dev\Csharp\RocketSeat\ExercicioPrimeiroModulo\Exercicios\Exercicios\obj\Debug\net8.0\ref\Exercicios.dll
